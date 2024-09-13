@@ -5,7 +5,7 @@
 
 - 🔭 Je suis développeur front-end en **freelance**
 
-- 🌱 Je suis en train d'apprendre **Next.js**
+- 🌱 Je suis en train d'apprendre **Next.js** 
 
 - 📫 Pour me contacter : **othmane.baar@gmail.com**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=othmaneb-pro&label=Profile%20views&color=0e75b6&style=flat" alt="othmaneb-pro" /> </p>
 
-- 🔭 Je suis développeur front-end en **freelance et CDI**
+- 🔭 Je suis développeur full Stack en **freelance et CDI**
 
 - 📫 Pour me contacter : **othmane.baar@gmail.com**
 
